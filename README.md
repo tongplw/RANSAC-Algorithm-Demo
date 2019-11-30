@@ -5,4 +5,5 @@ This is demo of Ransac Algorithm using Python for individual study project of 20
 
 ### For example
 
-![](table scene.jpg)
+![](https://github.com/tongplw/RANSAC-Algorithm-Demo/blob/master/res/table_scene.png)
+![](https://github.com/tongplw/RANSAC-Algorithm-Demo/blob/master/res/table_scene.png)
